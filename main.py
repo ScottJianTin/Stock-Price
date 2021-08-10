@@ -30,7 +30,7 @@ search_button = st.button("Search")
 if search_button:
     st.write(f"""
     ***
-    # Company overview: {tickerSymbol}
+    # Stock overview: {tickerSymbol}
     """)
 
     ## Ticker Info
